@@ -73,3 +73,10 @@ Project is created with:
   title="headphones"
   style="display: inline-block; margin: 0 auto; max-width: 300px"
 />
+
+
+<!-- 
+ this link for sanity stadio use to add an delete products and banner
+
+ https://ecomerce-headphones.sanity.studio/
+ --->

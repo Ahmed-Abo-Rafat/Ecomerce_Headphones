@@ -2,12 +2,15 @@
 Headphones is a Full Stack Ecommerce application with Payments functionality. With Modern design, animations, the ability to add and edit, delet products by using sanity as a backend, all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover REAL payments.
 
 <br>
-<img
+<a href="https://ecomerce-headphones.vercel.app/">
+  <img
   src="./assetsgit/headphones.PNG"
   alt="headphones"
   title="headphones"
   style="display: inline-block; margin: 0 auto; max-width: 300px"
-/>
+  />
+</a>
+
 
 <br>
 

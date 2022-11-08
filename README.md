@@ -12,7 +12,7 @@ Headphones is a Full Stack Ecommerce application with Payments functionality. Wi
 <br>
 
 ## Live Site:  
-   - Link: https://gym-exercs.netlify.app/
+   - Link:https://ecomerce-headphones.vercel.app/
 
 ## Features
   - Advanced React Best Practices such as

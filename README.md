@@ -35,37 +35,37 @@ Project is created with:
    - Responsevie Layout
 
 <img
-  src="./assetsgit/headphones.PNG"
+  src="./public/headphones.PNG"
   alt="headphones"
   title="headphones"
   style="display: inline-block; margin: 0 auto; max-width: 300px"
 />
 <img
-  src="./assetsgit/headphonesbody.PNG"
+  src="./public/headphonesbody.PNG"
   alt="headphonesbody"
   title="headphones"
   style="display: inline-block; margin: 0 auto; max-width: 300px"
 />
 <img
-  src="./assetsgit/footer.PNG"
+  src="./public/footer.PNG"
   alt="headphonesbody"
   title="headphones"
   style="display: inline-block; margin: 0 auto; max-width: 300px"
 />
 <img
-  src="./assetsgit/product.PNG"
+  src="./public/product.PNG"
   alt="headphonesproduct"
   title="headphones"
   style="display: inline-block; margin: 0 auto; max-width: 300px"
 />
 <img
-  src="./assetsgit/pay.PNG"
+  src="./public/pay.PNG"
   alt="headphonespay"
   title="headphones"
   style="display: inline-block; margin: 0 auto; max-width: 300px"
 />
 <img
-  src="./assetsgit/succes.PNG"
+  src="./public/succes.PNG"
   alt="headphonessucces"
   title="headphones"
   style="display: inline-block; margin: 0 auto; max-width: 300px"
